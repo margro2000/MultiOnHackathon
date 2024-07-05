@@ -7,7 +7,7 @@ import logo from "../../assets/images/logo.png";
 import Accordion from "../../components/Accordion/template-1";
 
 export const metadata = {
-  title: "Dark taste | Pricing",
+  // title: "Dark taste | Pricing",
   description: "Dark taste is a template of Landix.art",
 };
 

@@ -3,8 +3,6 @@ import Header from "@/components/Header/template-1";
 import logo from "@/assets/images/logo.png";
 
 export const metadata = {
-  title: "Dark taste | Terms of Service",
-  description: "Dark taste is a template of Landix.art",
 };
 
 export default function Terms() {

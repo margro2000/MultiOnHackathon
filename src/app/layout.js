@@ -3,7 +3,7 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import NextTopLoader from "nextjs-toploader";
 
 export const metadata = {
-  title: "Dark Taste",
+  // title: "Dark Taste",
   description: "",
 };
 

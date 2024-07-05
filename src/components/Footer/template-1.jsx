@@ -92,9 +92,9 @@ const Footer = ({ logo = "" }) => {
         </div>
       </div>
       <div className="container sm:flex grid text-center sm:text-[unset] sm:gap-0 gap-y-10 justify-center sm:justify-between py-9">
-        <p className="sm:order-1 order-2 sm:text-white text-gray-200">
+        {/* <p className="sm:order-1 order-2 sm:text-white text-gray-200">
           Dark taste template © 2024
-        </p>
+        </p> */}
         <ul className="flex items-center gap-4 sm:order-2 order-1 opacity-60">
           <li onClick={handelToTop}>
             <Link className="hover:text-gray-200" href="/pricing">

@@ -4,7 +4,7 @@ import React from "react";
 import logo from "@/assets/images/logo.png";
 
 export const metadata = {
-  title: "Dark taste | Privacy Policy",
+  // title: "Dark taste | Privacy Policy",
   description: "Dark taste is a template of Landix.art",
 };
 

@@ -206,7 +206,7 @@ export default function Home() {
         <FeatureSection
           title="The international challenge"
           subtitle="The new paradigm"
-          description=". Unlike LLMs, which primarily deal with information processing and generation, autonomous agents can be designed to interact with various digital systems, make decisions based on predefined criteria, and execute actions across different platforms. With the MultiOn API and the newest Agent capability, we can tackle some of these most complex challenges."
+          description="Unlike LLMs, which primarily deal with information processing and generation, autonomous agents can be designed to interact with various digital systems, make decisions based on predefined criteria, and execute actions across different platforms. With the MultiOn API and the newest Agent capability, we can tackle some of these most complex challenges."
           img={"/img/international.avif"}
           startFromRight={false}
         >

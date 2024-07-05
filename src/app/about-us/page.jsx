@@ -10,7 +10,7 @@ import salarAvatar from "../../assets/images/salar-rismantab.jpg";
 import TestimonialSection from "@/components/Sections/TestimonialSection";
 
 export const metadata = {
-  title: "Dark taste | About us",
+  // title: "Dark taste | About us",
   description: "Dark taste is a template of Landix.art",
 };
 

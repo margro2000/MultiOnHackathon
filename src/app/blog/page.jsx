@@ -5,8 +5,7 @@ import { getSortedPostsData } from "../../../lib/posts";
 import logo from "@/assets/images/logo.png";
 
 export const metadata = {
-  title: "Dark taste | Blog",
-  description: "Dark taste is a template of Landix.art",
+  // title: "Dark taste | Blog",
 };
 
 export default function Blog() {
