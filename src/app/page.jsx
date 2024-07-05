@@ -49,10 +49,6 @@ export default function Home() {
               imgSrc: "/img/partners/4.svg",
               alt: "",
             },
-            {
-              imgSrc: "/img/partners/5.svg",
-              alt: "",
-            },
           ]}
         >
 <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
@@ -69,7 +65,7 @@ export default function Home() {
               title: "Venue",
               description:
                 "Join us at the Cloudflare headquarters in San Francisco, California. ",
-              img: "/img/shack15.jpg",
+              img: "/img/cloudfare.jpeg",
               child: () => (
                 <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
                 <button className="btn glass rounded-xl text-white" type="button">
@@ -97,12 +93,11 @@ export default function Home() {
                 "We are offerring a variety of smaller challenges and prizes and creating a community of agent enthusiasts.",
               img: "/img/community.jpg",
               child: () => (
-                <button
-                  className="btn glass rounded-xl text-white "
-                  type="button"
-                >
-                  Call to action
+                <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+                <button className="btn glass rounded-xl text-white" type="button">
+                  Apply here
                 </button>
+              </a>
               ),
             },
             {
@@ -123,11 +118,11 @@ export default function Home() {
         <RatingSection
           items={[
             {
-              number: "$20,000",
+              number: "Cash prizes for top agents",
               subtitle: "In prizes",
             },
             {
-              number: "$50,000",
+              number: "Compute and API Credit",
               subtitle: "In Compute Credits",
             },
             {
@@ -180,12 +175,11 @@ export default function Home() {
           img={"/img/agents.png"}
           startFromRight={true}
         >
-          <button
-            type="button"
-            className="btn glass text-white  mt-7 rounded-xl"
-          >
-            Call to action
-          </button>
+         <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+                <button className="btn glass rounded-xl text-white" type="button">
+                  Apply here
+                </button>
+              </a>
         </FeatureSection>
 
         <PartnersSection
@@ -205,27 +199,7 @@ export default function Home() {
             {
               title: "Landix",
               src: "/img/partners/4.svg",
-            },
-            {
-              title: "Landix",
-              src: "/img/partners/5.svg",
-            },
-            {
-              title: "Landix",
-              src: "/img/partners/6.svg",
-            },
-            {
-              title: "Landix",
-              src: "/img/partners/7.svg",
-            },
-            {
-              title: "Landix",
-              src: "/img/partners/8.svg",
-            },
-            {
-              title: "Landix",
-              src: landix,
-            },
+            }, 
           ]}
         />
 
@@ -233,7 +207,7 @@ export default function Home() {
           title="The international challenge"
           subtitle="The new paradigm"
           description=". Unlike LLMs, which primarily deal with information processing and generation, autonomous agents can be designed to interact with various digital systems, make decisions based on predefined criteria, and execute actions across different platforms. With the MultiOn API and the newest Agent capability, we can tackle some of these most complex challenges."
-          img={"/img/international.jpg"}
+          img={"/img/international.avif"}
           startFromRight={false}
         >
           <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">

@@ -102,12 +102,11 @@ const Header = ({ logo = "" }) => {
               </li>
             </ul>
           </div>
-          <button
-            className="btn glass rounded-xl text-white "
-            type="button"
-          >
-            Apply Here
-          </button>
+          <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+  <button className="btn glass rounded-xl text-white" type="button">
+    Apply here
+  </button>
+</a>
         </div>
       </nav>
     </header>
