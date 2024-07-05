@@ -18,10 +18,10 @@ import PartnersSection from "@/components/Sections/PartnersSection";
 import landix from "@/assets/images/landix.svg";
 import TestimonialSection from "@/components/Sections/TestimonialSection";
 
-export const metadata = {
-  title: "Dark taste | Home",
-  description: "Dark taste is a template of Landix.art",
-};
+// export const metadata = {
+//   // title: "Dark taste | Home",
+//   description: "Dark taste is a template of Landix.art",
+// };
 
 export default function Home() {
   return (
