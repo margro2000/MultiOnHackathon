@@ -65,7 +65,7 @@ export default function Home() {
               title: "Venue",
               description:
                 "Join us at the Cloudflare headquarters in San Francisco, California. ",
-              img: "/img/cloudfare.jpeg",
+              img: "/img/Cloudfare.jpeg",
               child: () => (
                 <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
                 <button className="btn glass rounded-xl text-white" type="button">
