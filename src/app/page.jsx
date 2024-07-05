@@ -55,12 +55,11 @@ export default function Home() {
             },
           ]}
         >
-          <button
-            type="button"
-            className="btn glass text-white  mt-5 w-max rounded-xl"
-          >
-            Apply Here
-          </button>
+<a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+  <button className="btn glass rounded-xl text-white" type="button">
+    Apply here
+  </button>
+</a>
         </IntroSection>
         <ProductSection
           title="Join us on July 20th-21st, 2024 at Shack15"
@@ -69,15 +68,14 @@ export default function Home() {
             {
               title: "Venue",
               description:
-                "A space for the event has been reserved at the Shack15 in the Ferry building. ",
+                "Join us at the Cloudflare headquarters in San Francisco, California. ",
               img: "/img/shack15.jpg",
               child: () => (
-                <button
-                  className="btn glass rounded-xl text-white "
-                  type="button"
-                >
+                <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+                <button className="btn glass rounded-xl text-white" type="button">
                   Apply here
                 </button>
+              </a>
               ),
             },
             {
@@ -86,12 +84,11 @@ export default function Home() {
                 "Come here talks and panels from the top researchers and engineers in the field. ",
               img: "/img/speakers.jpg",
               child: () => (
-                <button
-                  className="btn glass rounded-xl text-white "
-                  type="button"
-                >
-                  Call to action
+                <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+                <button className="btn glass rounded-xl text-white" type="button">
+                  Apply here
                 </button>
+              </a>
               ),
             },
             {
@@ -114,12 +111,11 @@ export default function Home() {
                 "We are offerring a $10,000 prize to the team that creates the best autonomous agent.",
               img: "/img/prizes.jpg",
               child: () => (
-                <button
-                  className="btn glass rounded-xl text-white "
-                  type="button"
-                >
-                  Apple Here
+                <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+                <button className="btn glass rounded-xl text-white" type="button">
+                  Apply here
                 </button>
+              </a>
               ),
             },
           ]}
@@ -170,12 +166,11 @@ export default function Home() {
           startFromRight={false}
           borderBottomStyle={false}
         >
-          <button
-            type="button"
-            className="btn glass text-white  mt-7 rounded-xl"
-          >
-            Apply Here
-          </button>
+          <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+  <button className="btn glass rounded-xl text-white" type="button">
+    Apply here
+  </button>
+</a>
         </FeatureSection>
 
         <FeatureSection
@@ -241,12 +236,11 @@ export default function Home() {
           img={"/img/international.jpg"}
           startFromRight={false}
         >
-          <button
-            type="button"
-            className="btn glass text-white  mt-7 rounded-xl"
-          >
-            Apply Here
-          </button>
+          <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+  <button className="btn glass rounded-xl text-white" type="button">
+    Apply here
+  </button>
+</a>
         </FeatureSection>
 
         {/* <TestimonialSection
@@ -293,9 +287,11 @@ export default function Home() {
           title="Join us on July 20th-21st!"
           description="Make sure to register before July 15!"
         >
-          <button className="btn btn-neutral rounded-xl" type="button">
-             Apply Here
-          </button>
+         <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
+  <button className="btn glass rounded-xl text-white" type="button">
+    Apply here
+  </button>
+</a>
         </CallToAction>
       </main>
 
