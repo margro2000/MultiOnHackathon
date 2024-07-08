@@ -58,7 +58,7 @@ export default function Home() {
 </a>
         </IntroSection>
         <ProductSection
-          title="Join us on July 20th-21st, 2024 at Shack15"
+          title="Join us on July 20th-21st, 2024 at Cloudfare HQ in San Francisco, CA"
           subtitle="Schedule"
           products={[
             {
