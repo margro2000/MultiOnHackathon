@@ -135,7 +135,7 @@ export default function Home() {
         <FeatureSection
           title="What are we building?"
           subtitle="Understanding Agents"
-          description="Agents 2.0 refers to the next generation of software entities designed to operate independently with minimal human intervention. These agents are built with advanced algorithms, including artificial intelligence (AI) and machine learning (ML), enabling them to make decisions, learn from their interactions, and adapt to changing environments."
+          description="Agents 2.0 refers to the next era of AI Agents that act on your behalf and take actions. These agents are reliable, useful, observable and learn from their interactions. Developers can effortlessly add them to their stack and develop cool new Agentic applications."
           list={[
             {
               icon: () => <AiFillAliwangwang className="text-3xl" />,
