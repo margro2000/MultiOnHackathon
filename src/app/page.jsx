@@ -262,7 +262,7 @@ export default function Home() {
           description="Make sure to register before July 15!"
         >
          <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
-  <button className="btn glass rounded-xl text-white" type="button">
+  <button className="btn glass rounded-xl text-black" type="button">
     Apply here
   </button>
 </a>
