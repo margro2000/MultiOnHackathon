@@ -118,15 +118,15 @@ export default function Home() {
         <RatingSection
           items={[
             {
-              number: "Cash prizes for top agents",
-              subtitle: "In prizes",
+              number: "Apple Vision Pro",
+              subtitle: "Winning Prize",
             },
             {
-              number: "Compute and API Credit",
-              subtitle: "In Compute Credits",
+              number: "Cash and Prizes",
+              subtitle: "Top Particiapnts",
             },
             {
-              number: "250+",
+              number: "Compute, API Credit, Swag",
               subtitle: "Hackers, developers, and researchers",
             },
           ]}
