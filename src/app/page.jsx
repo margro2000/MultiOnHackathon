@@ -103,7 +103,7 @@ export default function Home() {
             {
               title: "Prizes",
               description:
-                "We are offerring a $10,000 prize to the team that creates the best autonomous agent.",
+                "We are offerring cash prizes and giveaways to the team that creates the best autonomous agent.",
               img: "/img/prizes.jpg",
               child: () => (
                 <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
