@@ -162,7 +162,7 @@ export default function Home() {
           borderBottomStyle={false}
         >
           <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
-  <button className="btn glass rounded-xl text-white" type="button">
+  <button className="btn glass rounded-xl text-white mt-6" type="button">
     Apply here
   </button>
 </a>
@@ -176,7 +176,7 @@ export default function Home() {
           startFromRight={true}
         >
          <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
-                <button className="btn glass rounded-xl text-white" type="button">
+                <button className="btn glass rounded-xl text-white mt-6" type="button">
                   Apply here
                 </button>
               </a>
@@ -204,14 +204,14 @@ export default function Home() {
         />
 
         <FeatureSection
-          title="The international challenge"
+          title="Global Community of Builders"
           subtitle="The new paradigm"
           description="Unlike LLMs, which primarily deal with information processing and generation, autonomous agents can be designed to interact with various digital systems, make decisions based on predefined criteria, and execute actions across different platforms. With the MultiOn API and the newest Agent capability, we can tackle some of these most complex challenges."
           img={"/img/international.avif"}
           startFromRight={false}
         >
-          <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer">
-  <button className="btn glass rounded-xl text-white" type="button">
+          <a href="https://lu.ma/ai-agents-2.0" target="_blank" rel="noopener noreferrer" className="mt-6">
+  <button className="btn glass rounded-xl text-white mt-6" type="button">
     Apply here
   </button>
 </a>
